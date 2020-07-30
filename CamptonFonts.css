@@ -2,9 +2,9 @@
   @font-face {
   font-family: 'Campton';
   src:
-		url('https://sacdemo.github.io/sacdemo.io/CustomFontsSAC/Campton-Bold.otf') format('opentype'),
-		url('https://sacdemo.github.io/sacdemo.io/CustomFontsSAC/Campton-Bold.woff') format('woff'),
-		url('https://sacdemo.github.io/sacdemo.io/CustomFontsSAC/Campton-Bold.ttf') format('truetype');
+		url('https://sacdemo.github.io/CustomFontsSAC/Campton-Bold.otf') format('opentype'),
+		url('https://sacdemo.github.io/CustomFontsSAC/Campton-Bold.woff') format('woff'),
+		url('https://sacdemo.github.io/CustomFontsSAC/Campton-Bold.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
   }
