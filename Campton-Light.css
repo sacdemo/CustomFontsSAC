@@ -1,0 +1,10 @@
+/* Campton-Light Fonts */
+  @font-face {
+  font-family: 'Campton-Light';
+  src:
+                              url('https://sacdemo.github.io/CustomFontsSAC/Campton-Light.otf') format('opentype'),
+                              url('https://sacdemo.github.io/CustomFontsSAC/Campton-Light.woff') format('woff'),
+                              url('https://sacdemo.github.io/CustomFontsSAC/Campton-Light.ttf') format('truetype');
+               font-weight: 200
+               font-style: normal;
+  }
