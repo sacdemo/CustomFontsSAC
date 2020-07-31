@@ -11,7 +11,7 @@
 
 /* Campton-Medium Fonts */
   @font-face {
-  font-family: 'Campton';
+  font-family: 'Campton-Medium';
   src:
                               url('https://sacdemo.github.io/CustomFontsSAC/Campton-Medium.otf') format('opentype'),
                               url('https://sacdemo.github.io/CustomFontsSAC/Campton-Medium.woff') format('woff'),
@@ -23,7 +23,7 @@
 
 /* Campton-Light Fonts */
   @font-face {
-  font-family: 'Campton';
+  font-family: 'Campton-Light';
   src:
                               url('https://sacdemo.github.io/CustomFontsSAC/Campton-Light.otf') format('opentype'),
                               url('https://sacdemo.github.io/CustomFontsSAC/Campton-Light.woff') format('woff'),
